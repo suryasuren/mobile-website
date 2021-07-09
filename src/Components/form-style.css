@@ -1,0 +1,62 @@
+.form-style 
+    {
+        display: block;
+        text-align: center;
+        
+    }
+
+Form {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    width: 40%;
+    top: 50%;
+}
+
+Label {
+    padding-bottom: 10px;
+}
+
+Button {
+    margin-top: 5%;
+}
+
+.FormGroup {
+    margin-top: 5%;
+}
+
+.genderClass {
+    width: 100% !important;
+    padding: .375rem .75rem;
+}
+
+.declaration-head {
+    padding-top: 15px;
+    display: block;
+}
+.declaration {
+    display: inline-block;
+    padding-left: 10px;
+    margin-bottom: 0;
+}
+.undertext {
+    text-align: center;
+    right: 60%;
+}
+
+.link-style {
+    text-decoration: none;
+}
+
+.Gbutton {
+    margin-left: 8%;
+  
+}
+
+.link-up {
+    margin-top: 2%;
+}
+.link-ups {
+    margin-top: 5%;
+}
